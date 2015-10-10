@@ -1,0 +1,10 @@
+::::::::::::::::::::::::::::::::::::::::::::
+:: 2015-10-09 Viernes 22:55
+
+Idea -> client
+
+Programa que detecte tipeo en en teclado y envie la info a un server
+tmb, deber ser capaz de interpretar la info recibilda y presentarla en 
+pantalla.
+
+Primera funcion, mover el cursos en distintas pantallas.
