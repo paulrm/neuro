@@ -1,6 +1,6 @@
 # neuro
 
-Nueroglia a simple, i don't know yet what the hell
+Nueroglia a simple, Just I don't know yet what the hell
 
 ## Philosophy
 
