@@ -4,7 +4,7 @@ Volviendo a activar
 
 #-------------------------------------------------------------------------------
 # 2016-11-01 Martes
-Que deprimente, casi un año de repositorio sin actividad
+Que deprimente, casi un aÃ±o de repositorio sin actividad
 
 #-------------------------------------------------------------------------------
 # 2016-08-02 Martes
@@ -23,4 +23,4 @@ Programa que detecte tipeo en en teclado y envie la info a un server
 tmb, deber ser capaz de interpretar la info recibilda y presentarla en 
 pantalla.
 
-Primera funcion, mover el cursos en distintas pantallas.
+Primera funcion, mover el cursor en distintas pantallas.
