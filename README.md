@@ -2,6 +2,11 @@
 
 Nueroglia a simple, Just I don't know yet what the hell
 
+
+### Repo ###
+https://github.com/paulrm/neuro.git
+
+
 ## Philosophy
 
 I don't shure yet 
@@ -26,3 +31,5 @@ Nueroglia es un simple, No se que carajao
 # History
 
 Update de SourceTree Testing
+
+LIBEAY32.dll
